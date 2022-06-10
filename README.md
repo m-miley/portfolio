@@ -2,4 +2,4 @@
 
 ## [Visit Web Page](https://m-miley.github.io/portfolio/)
 
-![Screen Shot 2022-05-26 at 3 06 43 PM](https://user-images.githubusercontent.com/100544761/170570519-5af6588f-99a3-4d3d-bc0d-9e59c3da6317.png)
+![Screen Shot 2022-06-10 at 2 54 41 PM](https://user-images.githubusercontent.com/100544761/173141118-d243051c-f032-4650-860e-ac12e02954b1.png)
